@@ -2,7 +2,7 @@
 layout: article
 title: 适合养号之经典V2Ray机场 -- Just My Socks 2020最新评测
 key: 10002
-tags: Just My Socks
+tags: 'Just My Socks'
 date: 2020-07-01
 ---
 
