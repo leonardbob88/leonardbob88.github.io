@@ -2,7 +2,7 @@
 layout: article
 title: 适合养号之经典V2Ray机场 -- Just My Socks 2020最新评测
 key: 10002
-tags: 'Just My Socks'
+tags: JustMySocks
 date: 2020-07-01
 ---
 
@@ -51,6 +51,8 @@ date: 2020-07-01
 在今年5月6月某大会敏感时期，[Just My Socks](http://bit.ly/38LAplE){:target="_blank"}也一直都可以正常使用，可靠性有着相当的保障。
 
 ---
+
+### 总结
 
 综上，[Just My Socks](http://bit.ly/38LAplE){:target="_blank"}是一款对于尤其美国区跨境电商和affiliate marketing非常友好的v2ray机场。如果和笔者一样有着同样需求的朋友，可以查看[Just My Socks](http://bit.ly/38LAplE){:target="_blank"}官网来看具体服务。
 
