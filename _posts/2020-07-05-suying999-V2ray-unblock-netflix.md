@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 支持8K视频的全中转SSR、V2Ray机场，原生解锁Netflix、hulu等 —— 速鹰666 2020年最新评测
+title: 支持8K视频的全中转SSR、V2Ray机场，原生解锁Netflix、hulu等 —— 速鹰666机场2020年最新评测
 key: 10003
 tags: 速鹰666
 date: 2020-07-05
