@@ -22,7 +22,7 @@ url     : https://leonardbob88.github.io/ # the base hostname & protocol for you
 baseurl : / # does not include hostname
 title   : 科学上网小站
 description: > # this means to ignore newlines until "Language & timezone"
-  科学上网中机场推荐、机场搭建、Netflix解锁、V2Ray、Shadowsocks、VPN
+  科学上网中机场推荐、机场搭建、Netflix解锁、流媒体、V2Ray、Trojan、Shadowsocks、VPN
 
 
 ## => Language and Timezone
